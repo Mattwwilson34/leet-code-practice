@@ -14,7 +14,7 @@ function solution(nums) {
   }
   return -1;
 }
-
 console.log(solution([1, 7, 3, 6, 5, 6]));
 
 array = [1, 7, 3, 6, 5, 6];
+
